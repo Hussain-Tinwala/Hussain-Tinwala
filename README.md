@@ -33,11 +33,6 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Tinwala&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Tinwala&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussain-Tinwala&theme=monokai" width="96%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Tinwala&layout=compact&theme=radical&hide_border=true&hide=TeX" width="96%" />
 </p>
