@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hussain%20Tinwala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hussaintin/)
 [![GitHub](https://img.shields.io/badge/GitHub-HussainTinwala-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hussain-Tinwala)
-[![Gmail](https://img.shields.io/badge/Gmail-your-email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coder.hussaintin@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-coder.hussaintin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coder.hussaintin@gmail.com)
 
 ---
 
@@ -33,22 +33,23 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Tinwala&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Tinwala&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Tinwala&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Tinwala&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Tinwala&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussain-Tinwala&theme=monokai" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Tinwala&layout=compact&theme=radical&hide_border=true&hide=TeX" width="100%"/>
 </p>
 
 ---
 
 ## 🌟 Recent Activity & Achievements
 
-- 🔄 Contributed to multiple open source projects, including Hacktoberfest initiatives
+- 🔄 Contributed to multiple open source projects, including **Hacktoberfest** initiatives
 - 🚀 Building AI/ML solutions and full-stack applications
 - 🎓 Continuous learner in data science and machine learning specializations
-- 💡 Passionate about mentoring and community contributions
+- 💡 Passionate about building and community contributions
 
 ---
 
