@@ -33,20 +33,35 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Tinwala&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Tinwala&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussain-Tinwala&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain-Tinwala&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussain-Tinwala&theme=monokai" width="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Tinwala&layout=compact&theme=radical&hide_border=true&hide=TeX" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussain-Tinwala&theme=monokai" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Tinwala&layout=compact&theme=radical&hide_border=true&hide=TeX" width="96%" />
 </p>
 
-<a href="https://github.com/Hussain-Tinwala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussain-Tinwala&theme=tokyonight"/></a>
-<a href="https://github.com/Hussain-Tinwala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussain-Tinwala&theme=tokyonight"/></a>
-<a href="https://github.com/Hussain-Tinwala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussain-Tinwala&theme=tokyonight"/></a>
-<a href="https://github.com/Hussain-Tinwala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain-Tinwala&theme=tokyonight&utcOffset=4"/></a>
-<a href="https://github.com/Hussain-Tinwala"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Hussain-Tinwala&theme=tokyonight" alt="sahilatahar" align="center" width=400/></a>
+<p align="center">
+  <a href="https://github.com/Hussain-Tinwala" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussain-Tinwala&theme=tokyonight" alt="Repos per Language" />
+  </a>
+  <a href="https://github.com/Hussain-Tinwala" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hussain-Tinwala&theme=tokyonight" alt="Most Commit Language" />
+  </a>
+  <a href="https://github.com/Hussain-Tinwala" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussain-Tinwala&theme=tokyonight" alt="GitHub Stats Card" />
+  </a>
+  <a href="https://github.com/Hussain-Tinwala" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain-Tinwala&theme=tokyonight&utcOffset=4" alt="Productive Time" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hussain-Tinwala" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=Hussain-Tinwala&theme=tokyonight" alt="GitHub Streak Stats" width="400" />
+  </a>
+</p>
 
 ---
 
