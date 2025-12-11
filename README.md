@@ -42,6 +42,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain-Tinwala&layout=compact&theme=radical&hide_border=true&hide=TeX" width="100%"/>
 </p>
 
+<a href="https://github.com/Hussain-Tinwala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilatahar&theme=tokyonight"/></a>
+<a href="https://github.com/Hussain-Tinwala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilatahar&theme=tokyonight"/></a>
+<a href="https://github.com/Hussain-Tinwala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahilatahar&theme=tokyonight"/></a>
+<a href="https://github.com/Hussain-Tinwala"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahilatahar&theme=tokyonight&utcOffset=4"/></a>
+<a href="https://github.com/Hussain-Tinwala"><img src="https://github-readme-streak-stats-eight.vercel.app?user=sahilatahar&theme=tokyonight" alt="sahilatahar" align="center" width=400/></a>
+
 ---
 
 ## 🌟 Recent Activity & Achievements
